@@ -1,4 +1,4 @@
-# AMPL
+# AMPL(Application Games Premier League)
 ## Summer Training project
 ### There are following step 
     1. Unzip this
@@ -7,3 +7,4 @@
        javac  My1.java
     4. Run as
       java  My1
+#### which help to access the project
